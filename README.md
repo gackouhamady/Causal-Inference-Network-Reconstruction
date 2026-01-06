@@ -1,10 +1,10 @@
-# Network Reconstruction & Causal Inference Projects 🧬
+# Network Reconstruction & Causal Inference Projects 
 
 This repository contains a collection of advanced projects focusing on **Network Reconstruction** and **Bayesian Networks**, applied to both synthetic benchmarks and real-world biological data.
 
 **Context:** Master in Machine Learning for Data Science (University Paris Cité).
 
-## 🛠 Tech Stack
+##  Tech Stack
 * **Language:** R (Jupyter Notebooks)
 * **Libraries:** `bnlearn`, `miic`, `igraph`, `pcalg`
 * **Concepts:** Causal Discovery, Directed Acyclic Graphs (DAGs), Conditional Independence, Information Theory.
